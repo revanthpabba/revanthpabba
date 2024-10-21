@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **revanthpabba12@gmail.com**
 
